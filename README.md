@@ -1,2 +1,2 @@
 # GCE_App
-Submission Deploy App/Web on GCP
+Submission Deploy App & Web on GCP
